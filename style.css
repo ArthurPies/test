@@ -1,5 +1,5 @@
 body {
-    color:red;
+    color:black;
     width: 500px;
     margin: 0 auto;
 } 
@@ -9,6 +9,6 @@ h1 {
 }
 body p{
     font-size: 16px;
-    font-style: italic;
-
-}
+    font-style: italic; 
+    background-color: darkgrey;
+} 
